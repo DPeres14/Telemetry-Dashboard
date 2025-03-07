@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true
+}
+"python.analysis.extraPaths": [
+    "C:\\Users\\peres\\Desktop\\Pessoal\\Telemetry Dashboard\\backend\\venv\\Lib\\site-packages"
+]
